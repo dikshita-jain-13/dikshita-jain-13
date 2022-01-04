@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dikshita Jain</h1>
 <h3 align="center">Open source enthusiast, UI/UX Designer</h3>
 
-- 🔭 I’m currently working on **UI/UX Design,Open source**
+- 🔭 I’m currently working on **UI/UX Design,backend**
 
 - 🌱 I’m currently learning **DSA, backend development(Python & Django)**
 
-- 👯 I’m looking to collaborate on **UI projects**
+- 👯 I’m looking to collaborate on **Design and Development projects**
 
 - 🤝 I’m looking for help with **DSA**
 
