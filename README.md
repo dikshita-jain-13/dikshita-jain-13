@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Problem solving**
 
-- 🌱 I’m currently learning **DSA, backend development(Python & Django)**
+- 🌱 I’m currently learning **DSA, backend development**
 
 - 👯 I’m looking to collaborate on **Design and Development projects**
 
