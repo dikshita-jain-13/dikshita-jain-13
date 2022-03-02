@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dikshita Jain</h1>
 <h3 align="center">Open source enthusiast</h3>
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working on **Problem solving**
 
 - 🌱 I’m currently learning **DSA, backend development(Python & Django)**
 
