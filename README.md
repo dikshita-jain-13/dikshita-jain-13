@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **DSA, backend development**
 
-- 👯 I’m looking to collaborate on **Design and Development projects**
-
 - 🤝 I’m looking for help with **DSA**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/dikshitajain2](https://www.behance.net/dikshitajain2)
