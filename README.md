@@ -7,10 +7,6 @@
 
 - 🤝 I’m looking for help with **DSA**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/dikshitajain2](https://www.behance.net/dikshitajain2)
-
-- 💬 Ask me about **UI/UX Design**
-
 - 📫 How to reach me **dikshitajain013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
