@@ -69,6 +69,6 @@
 
 <br>
 
-<a href="https://github.com/sakkshm26/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sakkshm26">
+<a href="https://github.com/dikshita-jain-13/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=dikshita-jain-13">
 </a>
